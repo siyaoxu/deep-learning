@@ -1,1 +1,1 @@
-The repo includes all my toy codes in deep learning.
+The repo includes course assignments and projects for my udacity deep learning nanodegree as well as my codes related to deep learning.
