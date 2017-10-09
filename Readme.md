@@ -12,8 +12,8 @@ Implement the word2vec algorithm using the skip-gram architecture.
 4. [TV script generation](https://github.com/siyaoxu/deep-learning/blob/master/tv-script-generation/dlnd_tv_script_generation.ipynb)
 Generate plausible Simpsons TV scripts using RNNs with part of the Simpsons dataset of scripts from 27 seasons.
 
-5. [language translation](https://github.com/siyaoxu/deep-learning/blob/master/language-translation/dlnd_language_translation.ipynb)
+5. [Language translation](https://github.com/siyaoxu/deep-learning/blob/master/language-translation/dlnd_language_translation.ipynb)
 Train a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
 
-6. [face generation](https://github.com/siyaoxu/deep-learning/blob/master/face_generation/dlnd_face_generation.ipynb)
+6. [Face generation](https://github.com/siyaoxu/deep-learning/blob/master/face_generation/dlnd_face_generation.ipynb)
 Use generative adversarial networks to generate new images of faces.
